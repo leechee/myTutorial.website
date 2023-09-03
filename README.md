@@ -6,7 +6,8 @@ This project was solo developed by Jason Lee. It utilizes Next.js, a React frame
 
 ## Technologies
 
-Overall, only a few applications were used, but the coding aspect was very meticuluous. 
+Only a few applications were used, but the coding aspect was meticulous.
+    - HTML
     - C++ (Tailwind CSS Static)
     - JavaScript (ReactJS)
     - Hostinger (Cloud WebHosting)
