@@ -8,7 +8,7 @@ This project was solo developed by Jason Lee. It utilizes Next.js, a React frame
 
 Only a few applications were used, but the coding aspect was meticulous.
     - HTML
-    - C++ (Tailwind CSS Static)
+    - TailwindCSS
     - JavaScript (ReactJS)
     - Hostinger (Cloud WebHosting)
     - Next.js (Nodejs)
